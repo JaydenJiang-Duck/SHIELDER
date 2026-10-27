@@ -1,6 +1,15 @@
 # SHIELDER
+"Where's your sword?"
 
-A roguelite game where your only weapon is a shield against hordes of undefeatable zombies
+A roguelite game where your only weapon is a shield against hordes of undefeatable zombies.
+
+CONTROLS:
+- WASD or Arrow keys to move
+- Left click to attack with the shield
+- Q and E for abilities
+
+NOTE:
+    This is my first PyGame! This means that I will take a long time to code and will be learning alongside the internet. I hope you enjoy this game as much as I coded it. Thank you!
 
 <a href="SHIELDER.dmg" download class="download-button">
     Download for macOS
